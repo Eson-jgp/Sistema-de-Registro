@@ -6,4 +6,4 @@ Para ejecutar el sistema, debes poner:
 
 '''npm install react'''
 
-Sistema de Regitro 2
+Sistema de Regitro 2 hoy 22/02/2024
